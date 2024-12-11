@@ -11,3 +11,8 @@ Discount (Numerical): The discount applied to the product, represented as a perc
 AdvertisingSpend (Numerical): The amount spent on advertising for the product.
 Region (Categorical): The region where the product is sold (e.g., North, South, East, West).
 SalesPrice (Numerical): The target variable, representing the sales price of the product.
+
+
+I have made a app using streamlit and deploy on streamlit app
+
+<h2>for app click this : https://salespricepredictionann-kwnckxqkf9ractxpgdzvab.streamlit.app/</h2>
